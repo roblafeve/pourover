@@ -1,4 +1,4 @@
-pour-over
+Pourover.io
 =========
 
 CSS Architecture
